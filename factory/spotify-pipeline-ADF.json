@@ -1,0 +1,9 @@
+{
+	"name": "spotify-pipeline-ADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8da8ae44-ecad-4eb6-b03a-e5bbf1f746e9",
+		"tenantId": "009fe49f-b2c8-44cd-b543-9773c2f713fe"
+	}
+}
